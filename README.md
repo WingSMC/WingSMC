@@ -1,18 +1,21 @@
 [![MasterHead](./header.png)](https://github.com/WingSMC)
 
-<!--
-**WingSMC/WingSMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height=200 src="https://github-profile-trophy.vercel.app/?username=WingSMC&theme=gruvbox" alt="Some decorative stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingSMC&theme=gruvbox&langs_count=20&exclude_repo=Prog2_NHF,Prog1_NHF,GFX_HF1,GFX_HF_BASE,webgl-noise,ArrayVisualizer,ReteLabGitAndGradle,Remo_HF&layout=compact" alt="Top Languagues" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+## Info
 
-- 🔭 I’m currently working on [Xenomorph](https://github.com/WingSMC/xenomorph) and my Master's besides work.
+- Current projects to look out for:
+  - [<img src="https://github.com/WingSMC/xenomorph/blob/main/extensions/vscode/icons/logo-white.png" width="16"> Xenomorph](https://github.com/WingSMC/xenomorph). A universal schema description language.
+- 🌱 I’m currently learning:
+  - Machine Learning
+  - Formal Methods
+  - Quantum Computing
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
@@ -30,20 +33,23 @@ Here are some ideas to get you started:
 </p>
 -->
 
----
-
 <!--![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)-->
 
-### Socials
+---
+
+
+## Socials
 <p align="left">
-<!--<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/gergely-dremak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<!--<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>-->
 <!--<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>-->
 </p>
 
 ### Here is a random joke:
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  
+</p>
   
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=vue-dark)
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WingSMC)](https://git.io/streak-stats)-->
+<!--[![WingSMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=WingSMC)](https://github.com/anuraghazra/github-readme-stats)-->
