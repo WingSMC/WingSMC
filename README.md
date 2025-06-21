@@ -1,11 +1,6 @@
-[![MasterHead](./header.png)](https://github.com/WingSMC)
+<!-- Based on: https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 -->
 
-<p align="center">
-  <img height=200 src="https://github-profile-trophy.vercel.app/?username=WingSMC&theme=gruvbox" alt="Some decorative stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingSMC&theme=gruvbox&langs_count=20&exclude_repo=Prog2_NHF,Prog1_NHF,GFX_HF1,GFX_HF_BASE,webgl-noise,ArrayVisualizer,ReteLabGitAndGradle,Remo_HF&layout=compact" alt="Top Languagues" />
-</p>
+[![MasterHead](./banner.png)](https://github.com/WingSMC)
 
 
 ## Info
@@ -16,6 +11,22 @@
   - Machine Learning
   - Formal Methods
   - Quantum Computing
+
+
+## Stats
+
+Most of my repos are private, but...
+
+<p align="center">
+</p>
+
+<a href="#">
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=WingSMC&theme=gruvbox" alt="Some decorative stats" />
+</a>
+<a href="#">
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingSMC&theme=gruvbox&langs_count=20&exclude_repo=Prog2_NHF,Prog1_NHF,GFX_HF1,GFX_HF_BASE,webgl-noise,ArrayVisualizer,ReteLabGitAndGradle,Remo_HF&layout=compact" alt="Top Languagues" />
+</a>
+
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
@@ -35,16 +46,15 @@
 
 <!--![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)-->
 
----
-
-
-## Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/gergely-dremak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+## Social~~s~~
+<p>
+<a href="https://www.linkedin.com/in/gergely-dremak/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c3b134c0-8894-42ed-a093-fbe620830990" alt="" height="40" width="40" /></a>
 <!--<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>-->
 </p>
 
-### Here is a random joke:
+---
+
+## Here is a random joke:
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  
