@@ -20,12 +20,12 @@ Most of my repos are private, but...
 <p align="center">
 </p>
 
-<a href="#">
-  <img width=600 align="center" src="https://github-profile-trophy.vercel.app/?username=WingSMC&theme=gruvbox" alt="Some decorative stats" />
-</a>
-<a href="#">
-  <img width=245 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingSMC&theme=gruvbox&langs_count=20&exclude_repo=Prog2_NHF,Prog1_NHF,GFX_HF1,GFX_HF_BASE,webgl-noise,ArrayVisualizer,ReteLabGitAndGradle,Remo_HF&layout=compact" alt="Top Languagues" />
-</a>
+<span>
+  <img width=620 align="center" src="https://github-profile-trophy.vercel.app/?username=WingSMC&theme=gruvbox" alt="Some decorative stats" />
+</span>
+<span>
+  <img width=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingSMC&theme=gruvbox&langs_count=20&exclude_repo=Prog2_NHF,Prog1_NHF,GFX_HF1,GFX_HF_BASE,webgl-noise,ArrayVisualizer,ReteLabGitAndGradle,Remo_HF&layout=compact" alt="Top Languagues" />
+</span>
 
 
 <!--
