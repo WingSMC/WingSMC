@@ -19,11 +19,6 @@
 <p align="center">
 </p>
 
-<span>
-  <img width=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingSMC&theme=gruvbox&langs_count=20&exclude_repo=Prog2_NHF,Prog1_NHF,GFX_HF1,GFX_HF_BASE,webgl-noise,ArrayVisualizer,ReteLabGitAndGradle,Remo_HF&layout=compact" alt="Top Languagues" />
-  
-</span>
-
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
