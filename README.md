@@ -8,16 +8,6 @@
 - Current projects to look out for:
   - [<img src="https://github.com/WingSMC/xenomorph/blob/main/extensions/vscode/icons/logo-white.png" width="16"> Xenomorph](https://github.com/WingSMC/xenomorph): A universal schema description language I'm developing in Rust.
   - [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" alt="" height="30" width="40" /> very-cool-table](https://github.com/WingSMC/very-cool-table): An opensource vue table component library I made.
-- 🌱 I’m currently learning:
-  - Machine Learning
-  - Formal Methods
-  - Quantum Computing
-
-
-## Stats
-
-<p align="center">
-</p>
 
 
 <!--
